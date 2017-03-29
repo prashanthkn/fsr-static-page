@@ -1,0 +1,1 @@
+# fsr-static-page
